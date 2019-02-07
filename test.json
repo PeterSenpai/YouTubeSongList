@@ -1,0 +1,426 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/sm_QnwIvAp9USpeqT4UCAps0TAw\"",
+  "pageInfo": {
+    "totalResults": 9,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OcTqshRZz9faxzFQMLXyNSZuAf8\"",
+      "id": "UExoN2pPZ0lmSU5MTnppVk9KZi1PSUZnVUd2OUNMX2xSVC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-12-24T09:33:15.000Z",
+        "channelId": "UCU7X3pb8QsKo_PNuzb_wJbg",
+        "title": "Angstrom Lubes Review | thecubicle.us",
+        "description": "Buy HERE - https://thecubicle.us/angstrom-lube-bundle-p-10267.html\n5% Discount Code - CrazyBadCuber\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nMy Instagram - https://www.instagram.com/crazybadcuber/\nMy Facebook - https://www.facebook.com/CrazyBadCuber/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nHonestly these are the best lubes I've ever used. Especially when combined with Lubicle Black and DNM-37. Be careful when applying these lubes though, it's easy to over lube the cube and hard to get it off. It lasts a very long time, and doesn't make the puzzle feel greasy at all. \n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nLInks to The Cubicle\nWeb Store - http://thecubicle.us\nYouTube - https://www.youtube.com/channel/UCfZGUwLPuHca5ZO_crTUOlA\nFacebook - https://www.facebook.com/TheCubicle.us/\nInstigram - https://www.instagram.com/thecubicle.us/\n~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bwiFhCNcxt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bwiFhCNcxt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bwiFhCNcxt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bwiFhCNcxt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bwiFhCNcxt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Peter Tao",
+        "playlistId": "PLh7jOgIfINLNziVOJf-OIFgUGv9CL_lRT",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bwiFhCNcxt4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bwiFhCNcxt4",
+        "videoPublishedAt": "2018-04-10T00:28:56.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yI7wQFDNep_aPCYQ3RXLnvZGG4U\"",
+      "id": "UExoN2pPZ0lmSU5MTnppVk9KZi1PSUZnVUd2OUNMX2xSVC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-12-24T09:33:56.000Z",
+        "channelId": "UCU7X3pb8QsKo_PNuzb_wJbg",
+        "title": "Virtual Vice - City Limits  [Synthwave/ Retrowave/ Outrun/ Retro Electro/ 80's/ Futuresynth]",
+        "description": "If you'd like to support me, please check out my music below :)\n\n► Virtual Vice - Off Duty (Full length Album) ($1)\nhttps://goo.gl/z3rESR\n\n► Virtual Vice - Killer in Kowloon (Full length Album) ($1)\nhttps://goo.gl/33fGsk\n\n► Virtual Vice - Sanctuary Runner (EP) ($1)\nhttps://goo.gl/J3KaWS\n\n--------------------------------\n\n► Spotify \nhttps://goo.gl/ndr5c5 \n\n► Itunes \nhttps://goo.gl/P6L6Jd \n\n► Google Play \nhttps://goo.gl/Lc28Td\n\n►  Amazon \nhttps://goo.gl/DPLBDp \n\n► Follow me on Soundcloud :) \nhttps://soundcloud.com/virtualvice",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2zJub2KE7E0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2zJub2KE7E0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2zJub2KE7E0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2zJub2KE7E0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2zJub2KE7E0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Peter Tao",
+        "playlistId": "PLh7jOgIfINLNziVOJf-OIFgUGv9CL_lRT",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2zJub2KE7E0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2zJub2KE7E0",
+        "videoPublishedAt": "2017-07-12T02:57:27.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PP_FCY3-N-cwzlZQ7oscE1KeUYU\"",
+      "id": "UExoN2pPZ0lmSU5MTnppVk9KZi1PSUZnVUd2OUNMX2xSVC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-12-24T09:33:57.000Z",
+        "channelId": "UCU7X3pb8QsKo_PNuzb_wJbg",
+        "title": "蘭のテーマ",
+        "description": "蘭ちゃんのテーマです♪\nまんまです。\n画像は変わりません。\n作業用ＢＧＭとしてお使いください",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kZCGs49bp1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kZCGs49bp1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kZCGs49bp1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kZCGs49bp1g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Peter Tao",
+        "playlistId": "PLh7jOgIfINLNziVOJf-OIFgUGv9CL_lRT",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kZCGs49bp1g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kZCGs49bp1g",
+        "videoPublishedAt": "2013-08-12T09:52:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/CMdd2K7cjWAFMKYuPMvmzCzcvZ4\"",
+      "id": "UExoN2pPZ0lmSU5MTnppVk9KZi1PSUZnVUd2OUNMX2xSVC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-12-24T09:33:58.000Z",
+        "channelId": "UCU7X3pb8QsKo_PNuzb_wJbg",
+        "title": "Miami Nights 1984 - Accelerated",
+        "description": "New Retro Wave + Miami Nights 1984 Accelerated\nStay Retro and Subscribe: http://bit.ly/1tmU0Dk\nAlso Support: http://bit.ly/1zudbOi\nGet Your Retro Wear Here: http://www.akadewear.com\n\nThe master of OUTRUN drops a new exhilarating track for the scene. Must be played at HIGH VOLUME! Enjoy.\n\n https://soundcloud.com/miami-nights-1984/accelerated\n\nSupport MN84:\nhttps://soundcloud.com/miami-nights-1984\nhttps://www.facebook.com/miaminights1984\nhttps://twitter.com/MiamiNights1984\n\nAnimation by Florian Renner:\nhttp://www.florian-renner.com/229285/projects\n\nConnect with us: \nhttp://www.newretrowave.com/\nhttps://www.facebook.com/NewRetroWaveOfficial\nhttps://soundcloud.com/newretrowave\nhttps://twitter.com/NewRetroWave\nhttp://instagram.com/newretrowave\n\n­__\n- Visit http://www.newretrowave.com/ and live your retro dreams.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rDBbaGCCIhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rDBbaGCCIhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rDBbaGCCIhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Peter Tao",
+        "playlistId": "PLh7jOgIfINLNziVOJf-OIFgUGv9CL_lRT",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rDBbaGCCIhk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rDBbaGCCIhk",
+        "videoPublishedAt": "2015-02-01T18:13:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KNy6hnoGgQCJOTH9kkZnGcqhpW0\"",
+      "id": "UExoN2pPZ0lmSU5MTnppVk9KZi1PSUZnVUd2OUNMX2xSVC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-12-24T09:33:58.000Z",
+        "channelId": "UCU7X3pb8QsKo_PNuzb_wJbg",
+        "title": "Zombie Hyperdrive - Red Eyes",
+        "description": "New Retro Wave + Zombie Hyperdrive\nStay Retro and Subscribe: http://bit.ly/1UBANYZ\nSupport: http://bitly.com/1aIGam7 http://spoti.fi/1YCFrGN\nAlso Support: http://bit.ly/1U5ktRw\nGet Your Retro Wear Here: http://www.akadewear.com\nOur Official Spotify: http://spoti.fi/1YCFrGN\n\nIt's official folks. Zombie Hyperdrive's debut album is OUT NOW!\nBandcamp: http://bit.ly/1MLlPz9\niTunes: http://apple.co/1pmq1d9\nSpotify: http://spoti.fi/1XMtVYN\n\nSupport - \nhttps://soundcloud.com/zombie-hyperdrive\nhttps://zombiehyperdrive.bandcamp.com/\nwww.facebook.com/ZombieHyperdrive\n\nArtwork by Sam Todhunter:\nhttp://www.samtodhunterart.com\n\nGet Your Retro Wear Here:\nhttp://www.akadewear.com\n\nConnect with us: \nhttp://www.newretrowave.com/\nhttps://www.facebook.com/NewRetroWaveOfficial\nhttps://soundcloud.com/newretrowave\nhttps://twitter.com/NewRetroWave\nhttp://instagram.com/newretrowave\n\n©2016 NewRetroWave Records. All Rights Reserved.\nNRW Records is under exclusive license to NewRetroWave, LLC. All Rights Reserved. This material may not be reproduced, displayed, modified or distributed without the express prior written permission of NewRetroWave LLC. For permission and other information, contact legal@newretrowave.com\n\n­__\n- Visit http://www.newretrowave.com/ and live your retro dreams.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NZf15xVrOW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NZf15xVrOW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NZf15xVrOW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NZf15xVrOW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NZf15xVrOW8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Peter Tao",
+        "playlistId": "PLh7jOgIfINLNziVOJf-OIFgUGv9CL_lRT",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NZf15xVrOW8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NZf15xVrOW8",
+        "videoPublishedAt": "2015-01-18T16:42:55.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uh2pjVt-SrdE0Ivbx6UCZmGVwws\"",
+      "id": "UExoN2pPZ0lmSU5MTnppVk9KZi1PSUZnVUd2OUNMX2xSVC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-12-24T09:33:59.000Z",
+        "channelId": "UCU7X3pb8QsKo_PNuzb_wJbg",
+        "title": "The Styles of Synthwave (Ver.2)",
+        "description": "I've been on a Synthwave kick lately and putting together an Essentials Albums chart for Synthwave community. This video attempts to explain all the various styles of synthwave and link them all through 4 movies with Ryan Gosling. This is version 2 of this video with 2 more styles and some faster transitions. Expect some additional Synthwave videos soon but I'm not deleting any older material.  \n\n((I own none of this content, i credit who did what, and you should check this music and movies out if you can. If you are a copyright holder and don't want your content posted let me know and I'll remove it.))",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vzL6f90RBck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vzL6f90RBck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vzL6f90RBck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vzL6f90RBck/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vzL6f90RBck/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Peter Tao",
+        "playlistId": "PLh7jOgIfINLNziVOJf-OIFgUGv9CL_lRT",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vzL6f90RBck"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vzL6f90RBck",
+        "videoPublishedAt": "2018-03-01T00:55:15.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/a_N57qnm_4KDg2ZcMhwCNwjngwU\"",
+      "id": "UExoN2pPZ0lmSU5MTnppVk9KZi1PSUZnVUd2OUNMX2xSVC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-12-24T09:34:01.000Z",
+        "channelId": "UCU7X3pb8QsKo_PNuzb_wJbg",
+        "title": "The Midnight - Endless Summer [Full Album]",
+        "description": "Endless Summer\nStay Retro and Subscribe: http://bit.ly/1UBANYZ\nAKADE: http://www.akadewear.com\nSupport: http://bitly.com/1aIGam7 \nOur Official Spotify: http://spoti.fi/1YCFrGN \nAlso Support: http://bit.ly/1U5ktRw\n\nAn absolute classic of an album. Listen up guys! The official full album upload of \"Endless Summer\".\nhttps://themidnight.bandcamp.com/album/endless-summer\n\nTracklistings:\n1. Endless Summer 00:00\n2. Sunset 06:45\n3. Daytona 12:12\n4. Jason (feat. Nikki Flores) 17:06\n5. Synthetic 22:44\n6. The Equaliser (Not Alone) 25:58\n7. The Comeback Kid 29:49\n8. Vampires 35:09\n9. Crockett's Revenge 40:26\n10. Nighthawks 45:53\n11. Lonely City 49:41\n12. Memories 54:56\n\nPic Sources:\nLong-lost polaroids of madonna in '83 show a mega star on the verge\nhttp://bit.ly/2b8X1DG\n\nCrockett!\nhttp://bit.ly/2b9Wug3\n\nSupport The Midnight\nhttp://Twitter.com/TheMidnightLA\nhttp://Instagram.com/TheMidnightLA\nhttp://Soundcloud.com/TheMidnightOfficial\nhttp://Facebook.com/TheMidnightOfficial\n\nConnect with us: \nhttp://www.newretrowave.com/\nhttps://www.facebook.com/NewRetroWaveOfficial\nhttps://soundcloud.com/newretrowave\nhttps://twitter.com/NewRetroWave\nhttp://instagram.com/newretrowave\n\n­__\n- Visit http://www.newretrowave.com/ and live your retro dreams.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_pUL7u-mYqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_pUL7u-mYqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_pUL7u-mYqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_pUL7u-mYqA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Peter Tao",
+        "playlistId": "PLh7jOgIfINLNziVOJf-OIFgUGv9CL_lRT",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_pUL7u-mYqA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_pUL7u-mYqA",
+        "videoPublishedAt": "2016-08-22T15:00:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-4QNk00frRvv9p0SKSM8R1zVu5g\"",
+      "id": "UExoN2pPZ0lmSU5MTnppVk9KZi1PSUZnVUd2OUNMX2xSVC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-12-24T09:34:02.000Z",
+        "channelId": "UCU7X3pb8QsKo_PNuzb_wJbg",
+        "title": "老王樂隊｜我還年輕 我還年輕 Teens Edge （Official)",
+        "description": "歌詞/Lyricist：張立長\n作曲/Composer：老王樂隊\n\n老王樂隊粉絲專頁：https://www.facebook.com/yourwomansleepwithothers\n\n錄音：荒原錄音室\n混音：李詠恩\n-------\n以入世的黑色幽默，掬起整個世代的無能為力，豪爽地一飲而盡\n\n苦悶世代在聲響上迸發的極光\n\n肉身百年　頑抗　體制萬年\nPR值98的莘莘學子　寫下　pH值2.0的醒世恆言\n\n老王樂隊首張EP【吾十有五而志於學】\n\n五聲八音／萬般下品\n\n-------\nSpotify → https://open.spotify.com/album/1UFlqDXBlX81oJxLfnIaIw\n\nKKBOX → https://www.kkbox.com/tw/tc/album/Hzk-mLkPglZqO0F1j.WV009H-index.html\n\nApple Music → https://itunes.apple.com/tw/album/%E5%90%BE%E5%8D%81%E6%9C%89%E4%BA%94%E8%80%8C%E5%BF%97%E6%96%BC%E5%AD%B8-single/id1289608564?l=zh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NbNPJr_0tqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NbNPJr_0tqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NbNPJr_0tqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NbNPJr_0tqA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NbNPJr_0tqA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Peter Tao",
+        "playlistId": "PLh7jOgIfINLNziVOJf-OIFgUGv9CL_lRT",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NbNPJr_0tqA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NbNPJr_0tqA",
+        "videoPublishedAt": "2017-10-03T08:46:49.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UNGWpTdv2meJZzSwPSjSFMNO5cs\"",
+      "id": "UExoN2pPZ0lmSU5MTnppVk9KZi1PSUZnVUd2OUNMX2xSVC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-12-24T09:34:02.000Z",
+        "channelId": "UCU7X3pb8QsKo_PNuzb_wJbg",
+        "title": "陶喆 David Tao - 愛我還是他 Who Do You Love? (官方完整版MV)",
+        "description": "收錄於 陶喆 David Tao / 太平盛世 THE GREAT LEAP 專輯\n2005年01月21日發行\n\n[ ♬ 數位音樂平台 & 實體購買]\nhttps://TWBC.lnk.to/thegreatleap_DT\n-------------------------------------------------------------------------------------------\n以人性意念的新題材，帶來了這張極富省思意味的寓言專輯，並用四元素的全新音樂製作法，創造出更巨大的音場，再次朝他的音樂目標大邁進！\n\n這是一場不流血的革命 陶喆音樂大邁進\n主打歌表達人性意念 3部曲\n音樂製作上挑戰極限 4元素\n視覺上集結亞洲 5大導演\n\n人生不能沒有懷疑與信念\n陶喆說：「第四張錄音室專輯就像是個印記般，象徵著我生命裡一個全新歷程的開始。它記錄了三部曲（最初的三張專輯）的結束，以及在我邁入生命另一階段所綻生的嶄新情感、思維與掙扎。隨著這個新時代的開啟，自然也會呈現出新的聲音、故事與期待中愈發敏銳的生命洞見。這張專輯對你們其中一些聆聽者來說絕對是個挑戰，因為從任何方面來看，它都比我以前的作品更加“沈重”且赤裸。但是同時間，我也感覺到它在悄悄地自我進化，變成一張更為簡潔而充滿力量的專輯。在每張專輯中，我都努力試圖“進步”，但這不是只為了變得不一樣。一個人要如何在面對真實本性時，又繼續有所成長呢？大量的資訊、資料與新聞竄流過我們的腦袋與電子公路，於是我經常問自己，是否還有什麼有意義的事情可以述說？這張專輯並不會提出任何解答，但它至少提出這個近年來不斷縈繞盤據在我心頭的嚴肅課題與重重憂慮。」\n\n這世界 是不是一直有人在搞「鬼」？\n『太平盛世』可說是一張帶有省思意味的寓言專輯！前三波主打歌分別表達了“懷疑”、“猶豫”、“相信”等人性三部曲的轉折。\n「鬼」：表達對人性的懷疑；\n「愛我還是他」：表達對選擇的猶豫；\n「Susan說」：回歸一種對承諾的信仰\n\n音樂大邁進 四元素減法變加法 創造更巨大的音場\n在這張專輯中，陶喆為自己的製作與編曲“設限”- 所有的演奏樂器必須控制在只有4個不同的樂器。這樣的設計將回歸一個偏向四人組樂隊或四重奏的傳統編制。舉例來說，假如一首歌只有鼓、低音吉他、吉他與鋼琴，那它便是由四種不同的樂器組合而成。不“允許”增加額外的樂器，除非是以更替取代的方式，或者是在更換其中的一個特定部份可以讓編曲變得更好的前提之下。這些看似約制的“規則”反而讓他破格思索，進而使得演奏的樂器更具意義；而不是那種為了讓編曲更豐富，再一味加油添醋的聲音與元素。這就是音樂製作的“減法”而非“加法”，但最後結果卻是創造了更形寬闊且清晰的巨大音場。這種“四元素”的製作方法，或多或少地都被運用在和聲、旋律與歌詞的製作譜寫上。他儘可能地保持每個元素的簡約特性，讓閱聽者在第一次探觸到時，便可以輕易接受。相較於之前的作品，會發現新專輯的和聲跟配器都變少了，人聲與樂器演奏都因此保有更原真的態度、性格而非過度矯飾。陶吉吉企圖捕捉瞬間的真誠而非拼湊“完美”的樂音。音樂製作科技在過去的十年裡快速成長，大量的音樂製作軟體、硬體、聲音與技術可供我們支配使用。將這些科技產品應用在製作過程裡，反而在不知不覺中濫用了這些資源，在音樂的世界裡“化繁為簡”這回事已經被淡忘了，陶喆不用“加法”來強化一首歌，其實難度很高，他必須設法讓每樣樂器元素都變得極度重要，並徹底實踐它的音樂“功用”，否則整首歌的編曲聽起來就會很單薄、不完整甚至是無聊。讓編曲裡每項樂器調校到最正確的位置，進而創造出單純、有生命力且勁道十足的編曲。在音樂上他著實又超越了自己一大步！\n\n★「愛我還是他」是一首聽似最簡單不過的抒情曲了，而且談論一個無處不在卻千古難解的三角習題。除了指向感情方面，他更有感於身旁多數人現階段所面臨的掙扎，包括了商人/藝人在被迫面對兩岸政治的抉擇，為求發展必須遠離家鄉做一個職場發展的抉擇，安全與未知的抉擇，最愛與道義的抉擇，命運與良心的抉擇等等。「每當愛變成了煎熬，你就開始要逃」歌詞直指人的自私與無力面對，歌曲末尾一段融入古典鋼琴的樂音，象徵表面越是平靜無波內心越是混亂澎湃的情慾。\n\n為了表現「愛我還是他」在各方面的意涵，MV特別取材自張愛玲《紅玫瑰與白玫瑰》的經典故事。場景也特地拉至上海與臺北兩地拍攝。陶喆飾演一位被公司調派到上海工作的年輕人，夾雜在上海紅玫瑰(瞿穎飾演)與臺北白玫瑰(林可彤飾演)的情慾糾葛中。陶喆第一次在MV中做完整劇情的演出，全片沒有對嘴鏡頭，與兩岸大美女精采情慾戲份絲絲入扣，生動演技讓人忘了他的歌手身份，尤其拍完在激情吻戲後，讓曾經拍攝過張藝謀電影的瞿穎驚訝不已陶喆的專業！兩岸大導演林錦和更是大讚他的表演與他音樂上的表現一樣超出色！\n\n《太平盛世》是陶喆的第四張專輯，於2005年1月發行\n★第17屆金曲獎「最佳國語流行音樂最佳演唱專輯獎」\n★入圍第17屆金曲獎「最佳年度歌曲獎」：孫子兵法\n\n跟著 #藍色點唱機 一起聽音樂吧！\nFacebook http://smarturl.it/BJBFB\nKKBOX http://smarturl.it/BJBKK\nSpotify http://smarturl.it/BJBSP\n\n更多華納音樂經典及復刻發行資訊：\n藍色點唱機 https://www.facebook.com/BlueJukeBox",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A6g2NPROeYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A6g2NPROeYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A6g2NPROeYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A6g2NPROeYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Peter Tao",
+        "playlistId": "PLh7jOgIfINLNziVOJf-OIFgUGv9CL_lRT",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A6g2NPROeYY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "A6g2NPROeYY",
+        "videoPublishedAt": "2015-11-12T08:54:32.000Z"
+      }
+    }
+  ]
+}
